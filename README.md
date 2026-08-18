@@ -5,6 +5,8 @@ An AI-enabled post-market surveillance lookup and machine learning tool designed
 
 ---
 
+link to dataset: https://drive.google.com/file/d/1idSgo9XaryjETV7pvqz6a1_U2s6R3VP_/view?usp=drivesdk
+
 ##  Project Overview
 Counterfeit and substandard medications pose severe public health risks. This project delivers a hybrid verification engine that pairs strict NAFDAC registry validation with natural language machine learning to detect suspicious drug entries, brand-to-registration mismatches, and failed surveillance samples.
 
@@ -17,6 +19,9 @@ Counterfeit and substandard medications pose severe public health risks. This pr
 ---
 
 ##  Dataset
+
+Drive link to dataset: https://drive.google.com/file/d/1idSgo9XaryjETV7pvqz6a1_U2s6R3VP_/view?usp=drivesdk
+
 The pipeline utilizes post-market surveillance data comprising:
 - **822 records** of sampled pharmaceutical products across multiple Nigerian states.
 - **25 attributes** including `NAFDAC REG. NO`, `BRAND NAME`, `GENERIC NAME`, `MANUFACTURER`, `DOSAGE FORM`, `REMARKS`, and laboratory assay `COMMENT` details.
